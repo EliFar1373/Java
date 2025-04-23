@@ -13,8 +13,8 @@ public class ifElse {
 		
 		
 		String name="E";
-		if(name=="Elon")
-			System.out.println("In love");
+		if(name=="E")
+			System.out.println("I");
 		else if(name=="Siyavash" )
 			System.out.println("brother");
 		else
