@@ -12,7 +12,7 @@ public class ifElse {
 		}
 		
 		
-		String name="Elon";
+		String name="E";
 		if(name=="Elon")
 			System.out.println("In love");
 		else if(name=="Siyavash" )
