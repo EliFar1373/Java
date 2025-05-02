@@ -10,7 +10,7 @@
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/world</property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">Elham$$123</property>
+        <property name="hibernate.connection.password">E</property>
 
         <!-- ✅ Hibernate Properties -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
