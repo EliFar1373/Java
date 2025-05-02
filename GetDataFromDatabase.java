@@ -10,7 +10,7 @@ public class GetDataFromDatabase {
 	public static void main(String []arg) throws SQLException {
 		String url="jdbc:mysql://localhost:3306/learn";
 		String uname="root";
-		String pass="Elham$$123";
+		String pass="+";
 		
 		String query="select * from studentt";
 		
